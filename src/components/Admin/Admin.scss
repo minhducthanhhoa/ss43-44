@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.sidebar-col {
+  background-color: red;
+  padding-top: 2rem;
+}
+
+.content-col {
+  padding: 2rem;
+}
